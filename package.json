@@ -1,0 +1,19 @@
+{
+  "name": "design-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "postcss": "^8.4.12",
+    "sass": "^1.50.1",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.5"
+  }
+}
